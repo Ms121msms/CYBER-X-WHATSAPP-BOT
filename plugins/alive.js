@@ -7,7 +7,7 @@ const {
   FancyRandom,
   getListFromCommand,
   skbuffer
-} = require("raganork-bot");
+} = require("CYBER-X 2.0 WHATSAPP BOT");
 const {
   Module,
   commands
